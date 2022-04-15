@@ -34,3 +34,5 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 ```py
 python manage.py collectstatic
 ```
+
+Herokuでdeployする
